@@ -1,0 +1,26 @@
+const products = [
+  {
+    id: 1,
+    name: 'Product 1',
+    description: 'Description of Product 1',
+    image: 'https://example.com/image-url-1.jpg',
+    originalPrice: 100,
+    discountPrice: 80,
+    sellingPrice: 80,
+    quantity: 10,
+    uom: 'pcs',
+    hsnCode: '1234',
+  },
+  {
+    id: 2,
+    name: 'Product 2',
+    description: 'Description of Product 2',
+    image: 'https://example.com/image-url-2.jpg',
+    originalPrice: 200,
+    discountPrice: 150,
+    sellingPrice: 150,
+    quantity: 5,
+    uom: 'pcs',
+    hsnCode: '5678',
+  },
+];
