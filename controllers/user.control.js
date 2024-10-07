@@ -69,7 +69,7 @@ export let forgotPass = async (req, res) => {
             <p>Link to reset your password</p>
             <p>This Link will expire in 20 minutes</p>
             
-            <a href=http://localhost:3000/reset-password/${isExist._id}/${token} style="display: inline-block; background-color: green; color: white; padding: 10px
+            <a href=https://luxury-tarsier-086fb0.netlify.app/reset-password/${isExist._id}/${token} style="display: inline-block; background-color: green; color: white; padding: 10px
 20px; text-align: center; text-decoration: none; border-radius: 5px; cursor: pointer;">Click here </a>
         
             </div>`
